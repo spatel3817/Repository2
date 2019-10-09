@@ -1,4 +1,5 @@
 HI my name is shweta and i am learning github.
 I am doing scenario 1 .. im undrerstanding it.
 I made a mistake hence doing as asked in scenario. It says to pull from githubmaster after adding a line.
+I shud have written a new line in github and then pulled it to local repo.
 in master i have already updated the mistake i made.
