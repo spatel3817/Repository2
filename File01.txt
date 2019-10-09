@@ -4,3 +4,5 @@ I made a mistake hence doing as asked in scenario. It says to pull from githubma
 I shud have written a new line in github and then pulled it to local repo.
 in master i have already updated the mistake i made.
 Im adding a new line as per requested in scenario.
+Adding another line in branch.
+
